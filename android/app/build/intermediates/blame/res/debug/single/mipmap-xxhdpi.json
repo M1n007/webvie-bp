@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/telkom/ProjTreport/TreTes1/ReduxTraining/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/home/telkom/ProjTreport/TreTes1/ReduxTraining/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "F:\\Projects\\react-native\\belajar-redux\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\Projects\\react-native\\belajar-redux\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\home\\telkom\\ProjTreport\\TreTes1\\ReduxTraining\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\home\\telkom\\ProjTreport\\TreTes1\\ReduxTraining\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

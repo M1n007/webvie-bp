@@ -1,6 +1,8 @@
-import RootNavigator from '../navigators/RootNavigator';
+import RootNavigator from "../navigators/RootNavigator";
 
-const initialState = RootNavigator.router.getStateForAction(RootNavigator.router.getActionForPathAndParams('IndexProfile'));
+const initialState = RootNavigator.router.getStateForAction(
+  RootNavigator.router.getActionForPathAndParams("IndexReact")
+);
 
 const navReducer = (state = initialState, action) => {
   const nextState = RootNavigator.router.getStateForAction(action, state);

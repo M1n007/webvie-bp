@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/telkom/ProjTreport/TreTes1/ReduxTraining/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/home/telkom/ProjTreport/TreTes1/ReduxTraining/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/res/xml/preferences.xml"
+        "merged": "F:\\home\\telkom\\ProjTreport\\TreTes1\\ReduxTraining\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\home\\telkom\\ProjTreport\\TreTes1\\ReduxTraining\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\Projects\\react-native\\belajar-redux\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\Projects\\react-native\\belajar-redux\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\xml\\preferences.xml"
     }
 ]
